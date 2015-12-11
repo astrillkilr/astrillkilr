@@ -1,0 +1,59 @@
+{
+	"albums": [
+		{	
+			"id": 1,
+			"name": "loveandmemory",
+			"text": "爱与回忆",
+			"description": "时光交错，无有往复，所到之处，所见之人，融入灵魂的记忆，相伴在轮回中，永不分离。",
+			"sort": 5
+		},
+		{	
+			"id": 2,
+			"name": "glodandsaphire",
+			"text": "黄金与蓝宝石",
+			"description": "爱与美，秩序与和谐，索缪之灵，维纳斯之心，光之希伯来。",
+			"sort": 8
+		},
+		{	
+			"id": 3,
+			"name": "blessingofenergy",
+			"text": "能量祝福",
+			"description": "上天所恩赐的，伟大的爱，绘出这世界，万物之间联系着的丝线，即便天涯也能听到彼此的心跳。",
+			"sort": 3
+		},
+		{	
+			"id": 4,
+			"name": "blessingoftwinflame",
+			"text": "双生火焰祝福",
+			"description": "Great One的伟大展现，合一之灵，永恒的属于彼此，生于爱，归于爱，存在便是光。",
+			"sort": 4
+		},
+		{	
+			"id": 5,
+			"name": "valleyofsnowmountain",
+			"text": "雪山空谷",
+			"description": "带着遥远的爱与回忆，踏上浮世之路，前往陌生的国土，为了心中的远山，与初升的太阳。",
+			"sort": 6
+		},
+		{	
+			"id": 6,
+			"name": "dreamofsnow",
+			"text": "雪之梦",
+			"description": "来自最纯净的冰川之水，雪之国，深入心的无尽海洋，山与河，雪与梦。",
+			"sort": 7
+		},
+		{	
+			"id": 7,
+			"name": "angelsymbol",
+			"text": "天使图腾",
+			"description": "来自天国的语言，万福之灵，光之子，人之子，Sa ti i lu ya.",
+			"sort": 2
+		},
+		{	
+			"id": 8,
+			"name": "astrillkilr",
+			"text": "Astrillkilr",
+			"sort": 1
+		}
+	]
+}
