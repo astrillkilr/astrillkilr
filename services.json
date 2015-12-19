@@ -48,7 +48,21 @@
 			"id": 4,
 			"name": "能量平衡祝福画",
 			"price": 444,
-			"description": "运用画师灵魂的意识，洞悉客户内心深处的能量层，结合色彩与图腾，从视觉进入心灵，释放压力，平衡脉轮能量。"
+			"description": "运用画师灵魂的意识，洞悉客户内心深处的能量层，结合色彩与图腾，从视觉进入心灵，释放压力，平衡脉轮能量。",
+			"history": [
+				{
+					"src": "/painting/blessingofenergy/20141214152842.jpg",
+					"description": ""
+				},
+				{
+					"src": "/painting/blessingofenergy/20141214235946.jpg",
+					"description": ""
+				},
+				{
+					"src": "/painting/blessingofenergy/20141215000020.jpg",
+					"description": ""
+				}
+			]
 		},
 		{
 			"id": 5,
